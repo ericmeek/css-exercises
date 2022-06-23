@@ -1,0 +1,24 @@
+.odd {
+    color: #000000;
+    background-color: #e854b7;
+    font-family: Verdana, "DejaVu Sans",  sans-serif;
+    font-size: 28px;
+}
+
+.cooler {
+    font-size: 38px;
+}
+
+#numbertwo {
+    color: blue;
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 48px;
+}
+
+#numberfour {
+    color: black;
+    background-color: green;
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 38px;
+    font-weight: bold;
+}
